@@ -1,0 +1,172 @@
+{
+    "global": {
+        "_Z4pmatdimsdims": {
+            "arg_types": [
+                "dims",
+                "dims"
+            ],
+            "ret_type": "pmat"
+        },
+        "_Z4pvecdims": {
+            "arg_types": [
+                "dims"
+            ],
+            "ret_type": "pvec"
+        },
+        "_Z10pmat_printpmat": {
+            "arg_types": [
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z8pmt_gemmpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z8pmt_gemmpmatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_nnpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_nnpmatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_ntpmatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_tnpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_tnpmatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_ttpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z11pmt_gemm_ttpmatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z8pmt_geadfloatpmatpmat": {
+            "arg_types": [
+                "float",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmt_potrfpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z10pmt_potrsmpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmat_tranpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmat_copypmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmat_fillpmatfloat": {
+            "arg_types": [
+                "pmat",
+                "float"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmat_hcatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pmat_vcatpmatpmatpmat": {
+            "arg_types": [
+                "pmat",
+                "pmat",
+                "pmat"
+            ],
+            "ret_type": "None"
+        },
+        "_Z10pvec_printpvec": {
+            "arg_types": [
+                "pvec"
+            ],
+            "ret_type": "None"
+        },
+        "_Z9pvec_copypvecpvec": {
+            "arg_types": [
+                "pvec",
+                "pvec"
+            ],
+            "ret_type": "None"
+        }
+    }
+}
